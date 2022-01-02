@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-anthony-brown/static/css/main.bbd7174e.css",
+    "main.js": "/react-portfolio-anthony-brown/static/js/main.59d47e37.js",
+    "static/js/787.586841a9.chunk.js": "/react-portfolio-anthony-brown/static/js/787.586841a9.chunk.js",
+    "static/media/primetime.png": "/react-portfolio-anthony-brown/static/media/primetime.ea6a9982127bec4b6825.png",
+    "static/media/code-trivia.png": "/react-portfolio-anthony-brown/static/media/code-trivia.9bcf6a8192c365fbfcb8.png",
+    "static/media/ABinDC.jpeg": "/react-portfolio-anthony-brown/static/media/ABinDC.0fe3d6ab8632c1f694ed.jpeg",
+    "static/media/Oculus.png": "/react-portfolio-anthony-brown/static/media/Oculus.a6a63dad6b7890119575.png",
+    "static/media/resume.pdf": "/react-portfolio-anthony-brown/static/media/resume.667ff990e0d7e6159066.pdf",
+    "static/media/work-day-scheduler.png": "/react-portfolio-anthony-brown/static/media/work-day-scheduler.64b7dc45cbe4965a1d0b.png",
+    "static/media/github.png": "/react-portfolio-anthony-brown/static/media/github.8478fcb322765fe2f405.png",
+    "static/media/twitter.png": "/react-portfolio-anthony-brown/static/media/twitter.e790a56dddc2713af42b.png",
+    "static/media/logo.svg": "/react-portfolio-anthony-brown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio-anthony-brown/index.html",
+    "main.bbd7174e.css.map": "/react-portfolio-anthony-brown/static/css/main.bbd7174e.css.map",
+    "main.59d47e37.js.map": "/react-portfolio-anthony-brown/static/js/main.59d47e37.js.map",
+    "787.586841a9.chunk.js.map": "/react-portfolio-anthony-brown/static/js/787.586841a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd7174e.css",
+    "static/js/main.59d47e37.js"
+  ]
+}
