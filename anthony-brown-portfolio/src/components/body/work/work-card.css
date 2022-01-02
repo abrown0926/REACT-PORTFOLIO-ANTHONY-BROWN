@@ -9,7 +9,8 @@
 }
 
 .work-logo {
-  height: 80px;
+  height: 100px;
+  background-color: aquamarine;
 }
 
 .work-info {
@@ -19,7 +20,7 @@
 }
 
 .work-dates {
-  color: gray;
+  color: #63b8ff;
 }
 
 .work-desc {
